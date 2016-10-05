@@ -65,6 +65,7 @@ You must address the following questions and tasks in your exploratory analysis.
 
 -------------------
 Making and Submitting Plotsless 
+
 For each plot you should
 
 Construct the plot and save it to a PNG file.
